@@ -1,6 +1,7 @@
 ### Hi there 👋
+### My name is Paul and I am currently working on a Web Development course, this is my first time using GitHub
 
-<!--
+
 **PaulD-13/PaulD-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
